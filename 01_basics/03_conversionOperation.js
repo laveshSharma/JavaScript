@@ -27,4 +27,26 @@ yah par ek concept hai truthy and falsy value ka
 
 let someNumber = 33;
 let stringNumber = String(someNumber);
-console.log(typeof stringNumber, stringNumber);
+// console.log(typeof stringNumber, stringNumber);
+
+//************************Operations **********************
+// basic mathematical operations like Addition, subtraction,  multiplication, division, modulus.
+
+// there is a tyep corecion thing in js which automatically convert the dataType of a particular value.
+
+// + operator automatically convert the number into string
+// else other operator automatically convert the string into number.
+
+// console.log("23" * 10)  ;
+
+
+
+
+
+
+
+
+
+
+
+//https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
