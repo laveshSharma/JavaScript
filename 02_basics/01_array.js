@@ -9,8 +9,8 @@ b) JavaScript array are zero index
 const myArr = [0, 1, 2, 3, 4, 5];
 const heroes = new Array("Batman", "wonderWoman", "Superman");
 
-// console.log(myArr);
-// console.log(heroes);
+console.log(myArr);
+console.log(heroes);
 
 // Array Methods
 
@@ -19,7 +19,7 @@ myArr.pop(); // removes an element form the end of an array => ouput:- [0, 1, 2,
 myArr.unshift(6) //add an element at the start of an array => ouput:- [6, 0, 1, 2, 3, 4, 5]
 myArr.shift() //removes an element from the start of an array => ouput:- [0, 1, 2, 3, 4, 5]
 
-// console.log(myArr);
+console.log(myArr);
 
 // slice, splice
 console.log("A ", myArr);
