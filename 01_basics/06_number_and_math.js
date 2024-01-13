@@ -11,6 +11,7 @@ console.log(balance.toString()); //convert the number into string
 // ++++++++++++++++++++++++++++++ Maths ++++++++++++++++++++++
 
 console.log(Math);
+console.log(Math.abs(-4)); // return the absolute value which means always return the positive integer => output: 4
 console.log(Math.round(4.6)); // round the number to the nearest integer
 console.log(Math.ceil(4.2)); //always round up the number => output: 5
 console.log(Math.floor(4.6)); //always round dowm the number => output: 4
