@@ -68,6 +68,8 @@ Math.abs, Math.ceil, Math.floor, Math.random(), Math.max, Math.min
 Array/Array Methods
 */
 // const arr = [1, 2, 3, 4, 5];
+// arr[1] = 6;
+// console.log(arr);
 // const arr1 = new Array(6, 7,  8, 9, 10);
 
 // const marvelHeros = ["ironMan", "spiderMan",  "captianAmerica", "thor", "blackPanther"]
@@ -109,8 +111,3 @@ const isLoggedIn = {
    isLoggedIn: true
 }
 
-const isLoggedOff = new Object(
-   name: "hitesh",
-   age: 39,
-   isLoggedOff: false
-)
